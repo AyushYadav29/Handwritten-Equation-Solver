@@ -22,10 +22,10 @@ You can run all the three ipynb files either separately or sequentially.
 
 # Input Image:
 <p>
-<img src="test4.jpg" alt="Input" >
+<img src="test4.JPG" alt="Input" >
 </p>
 
 # Output:
 <p>
-<img src="output.jpg" alt="output" >
+<img src="output.JPG" alt="output" >
 </p>
