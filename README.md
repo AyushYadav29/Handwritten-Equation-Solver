@@ -2,8 +2,8 @@
 
 Handwritten math symbols dataset is taken from Kaggle (https://www.kaggle.com/xainano/handwrittenmathsymbols)
 
-1. Input images (dataset) containing hand written equations is with Convolutional Neural Network.
-2. User has to input an image containing a handwrittenequation.
+1. Input images (dataset) containing hand written equations is taken from kaggle.
+2. User has to input an image containing a hand written equation.
 3. Convert the image to a binary image and then invert the image(if digits/symbols are in black).
 4. Now obtain contours of the image by default, it will obtain contours from left to right.
 5. Obtain bounding rectangle for each contour.
